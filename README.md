@@ -1,18 +1,17 @@
-Mario Game Website
-Overview
+# Mario Game Website
+
+## Overview
 Interactive Mario game website with level selection and character customization.
-Features
 
-Multiple game difficulty levels
-Character skin selection
-Responsive design
+## Features
+- Multiple game difficulty levels
+- Character skin selection
+- Responsive design
 
-Technology Stack
+## Technology Stack
+- HTML5
+- CSS3
 
-HTML5
-CSS3
-
-Setup
-
-Clone repository
-Open index.html in browser
+## Setup
+1. Clone repository
+2. Open index.html in browser
